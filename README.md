@@ -4,7 +4,7 @@
 
 ### Stack
 
-Vue.js
-SCSS
-Router
-Pinia
+Vue.js,
+ SCSS,
+ Router,
+ Pinia
