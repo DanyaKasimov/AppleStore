@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+.container{
+  width: 100%;
+  background-color: white;
+  .container_line{
+    display: flex;
+  }
+}
